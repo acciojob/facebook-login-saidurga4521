@@ -28,7 +28,7 @@ input{
 	border-radius:5px;
 	padding:10px;
 }
-#left img{
+.left, img{
 	width:200px;
 	height:150px;
 	
